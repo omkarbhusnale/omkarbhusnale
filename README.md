@@ -15,8 +15,10 @@
 <a href="https://www.linkedin.com/in/omkar-bhusnale-062218212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 
 
--💻🔗 Working on Python, Django
--📘 Learning React Vue framework
+- 💻🔗 Working on Python, Django
+
+- 📘 Learning React Vue framework
+
 - Find me at :   [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/Dark_Soul23)
 
 
