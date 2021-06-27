@@ -1,4 +1,4 @@
-### Hey I'm Omkar 👋🏻
+### Hey, I'm Omkar 👋🏻
 
 #
 
