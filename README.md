@@ -17,7 +17,7 @@
 
 - 🔭 Working on Python, Django
 - 📖 Learning React Vue framework
-- 📫 Find me at :   [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/Dark_Soul)
+- 📫 Find me at :   [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/Dark_Soul23)
 
 
 
