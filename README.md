@@ -6,7 +6,6 @@
 <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DarkSoul231&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 
-
 <a href="mailto:legendomi231@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
 <a href="https://twitter.com/itzz_omi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
 <a href="https://www.linkedin.com/in/omkar-bhusnale-062218212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
@@ -16,7 +15,10 @@
 - 📘 Learning Flutter framework
 
 - 🔍 Find me at :   [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/Dark_Soul23)
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DarkSoul231/&title=Profile%20Views)
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=DarkSoul231.DarkSoul231)
+
+<!--![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DarkSoul231/&title=Profile%20Views)  -->
+
 
 
 #
