@@ -22,9 +22,9 @@
 <!-- 
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDarkSoul231%2Fhit-counter&count_bg=%230BC4FE&title_bg=%23332F2F&icon=mediafire.svg&icon_color=%2373EAC8&title=Profile+Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DarkSoul231/&title=Profile%20Views) 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/omkarbhusnale/&title=Profile%20Views) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkSoul231&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omkarbhusnale&show_icons=true&theme=tokyonight)
 ### 🏆 Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=ad1992&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 -->
@@ -43,7 +43,7 @@
 
 
 <!--
-**DarkSoul231/DarkSoul231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**omkarbhusnale/omkarbhusnale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started 
 
