@@ -1,14 +1,14 @@
-## Hey, I'm Omkar..👋🏻<div align="right">![visitors](https://visitor-badge.glitch.me/badge?page_id=DarkSoul231.DarkSoul231&)</div>
+## Hey, I'm Omkar..👋🏻<div align="right">![visitors](https://visitor-badge.glitch.me/badge?page_id=omkarbhusnale.omkarbhusnale&)</div>
 
-![DarkSoul231-readme](https://media.giphy.com/media/KiMBUPZUhUg4HRV6PW/giphy.gif)
+![omkarbhusnale-readme](https://media.giphy.com/media/KiMBUPZUhUg4HRV6PW/giphy.gif)
 #
 
-<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DarkSoul231&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=omkarbhusnale&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 
 <a href="mailto:legendomi231@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
-<a href="https://twitter.com/itzz_omi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
-<a href="https://www.linkedin.com/in/omkar-bhusnale-062218212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
+<a href="https://twitter.com/OmkarBhusnale"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
+<a href="https://www.linkedin.com/in/omkarbhusnale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 
 - 💻🔗 Currently Working on Python, Django
 
