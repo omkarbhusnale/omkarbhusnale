@@ -30,9 +30,9 @@
 
 📈💻 My Github stats.
 <div>
-<img height="170rem" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=omkarbhusnale&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img height="170rem" width="40%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=omkarbhusnale&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
-<img height="170rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhusnale&layout=compact&theme=dark&hide=Jupyter Notebook" alt="top-langs-used" />
+<img height="170rem" width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhusnale&layout=compact&theme=dark&hide=Jupyter Notebook" alt="top-langs-used" />
 </div>
 
 <br>
