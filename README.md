@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/omkarbhusnale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
 </p>
 
-<img align="right" height="250rem" width="30%" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" height="220rem" width="25%" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 **Check Out My Stats**
 
@@ -30,9 +30,9 @@
 
 📈💻 My Github stats.
 <div>
-<img height="185rem" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=omkarbhusnale&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img height="170rem" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=omkarbhusnale&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
-<img height="185rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhusnale&layout=compact&theme=dark&hide=Jupyter Notebook" alt="top-langs-used" />
+<img height="170rem" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhusnale&layout=compact&theme=dark&hide=Jupyter Notebook" alt="top-langs-used" />
 </div>
 
 <br>
