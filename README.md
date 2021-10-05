@@ -18,7 +18,7 @@
 
 - 🔍 Find me at :   [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/omkarbhusnale)
 
-- ✨ My Website : [![Website](https://img.shields.io/badge/Website-fff?style=flat&logo=web)](https://disneyplus-clone-3eaf1.web.app/)
+- ✨ Website : [![Website](https://img.shields.io/badge/Website-fff?style=flat&logo=web)](https://disneyplus-clone-3eaf1.web.app/)
 
 <br>
 
