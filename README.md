@@ -30,9 +30,15 @@
 
 📈💻 My Github stats.
 <div>
-<img height="170rem" width="45%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=omkarbhusnale&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=omkarbhusnale&hide_border=true&theme=tokyonight"width="45%" >
 
-<img height="170rem" width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhusnale&layout=compact&theme=dark&hide=Jupyter Notebook" alt="top-langs-used" />
+<img height="180rem" width="45%" align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=omkarbhusnale&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+
+<!-- <img height="170rem" width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhusnale&layout=compact&theme=dark&hide=Jupyter Notebook" alt="top-langs-used" /> -->
+
+
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=omkarbhusnale&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /> -->
+
 </div>
 
 <br>
@@ -41,8 +47,11 @@
 #
 
 <div align="center">
+<img height="170rem" width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhusnale&layout=compact&theme=dark&hide=Jupyter Notebook" alt="top-langs-used" />
+</div>
 
-**Languages and Tools Used**
+<div align="center">
+
 
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
