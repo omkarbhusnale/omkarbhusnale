@@ -7,22 +7,20 @@
 
 
 <p align="center">
-  <a href="mailto:legendomi231@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
-  <a href="https://twitter.com/OmkarBhusnale"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
   <a href="https://www.linkedin.com/in/omkarbhusnale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30></a>
+  <a href="mailto:omkar.bhusnale@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a>
+  <a href="https://twitter.com/OmkarBhusnale"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=30></a>
 </p>
 
 <img align="right" height="225rem" width="30%" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 **Check Out My Stats**
 
-- 💻🔗 Currently Working on Python, JavaScript
-
-- 📘 Currently Learning Flutter framework
+- 💻🔗 Currently Full-Stack Developer
 
 - 🔍 Find me at :   [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=flat&logo=telegram)](https://t.me/omkarbhusnale)
 
-- ✨ Website : [![Website](https://img.shields.io/badge/Website-fff?style=flat&logo=web)](https://disneyplus-clone-3eaf1.web.app/)
+- ✨ Website : [![Website](https://img.shields.io/badge/Website-fff?style=flat&logo=web)](https://omkar-bhusnale-portfolio.vercel.app)
 
 <br>
 
@@ -45,14 +43,18 @@
 # 
 
 <div>
-  <div align="right">
+  <div align="center">
     <img 
       height="180rem" width="45%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarbhusnale&layout=compact&theme=dark&hide=JupyterNotebook" 
       alt="Languages used.." />
   </div>
-  
-  <div align="left">
+</div>
+
+#
+
+<div align="center">
+    <h2>Tech Stacks</h2>
     <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
     <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
     <code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
@@ -62,8 +64,7 @@
     <code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
     <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   </div>
-</div>
-
+  
 #
 
 <div align="center">
